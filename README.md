@@ -17,7 +17,8 @@ El sistema de riego automático está diseñado para mantener las plantas adecua
 
 ## Diagrama de Conexión
 
-Inserta aquí un diagrama que muestre cómo conectar los componentes mencionados anteriormente. Puedes utilizar software como Fritzing para crear el diagrama.
+![image](https://github.com/Maick1/S.riego/assets/86171053/53a66bf5-9a79-49aa-b8b1-ebc0216cd4ae)
+
 
 ## Instrucciones de Montaje
 
